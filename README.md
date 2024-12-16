@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamrohan3000" target="blank"><img src="https://img.shields.io/twitter/follow/iamrohan3000?logo=twitter&style=for-the-badge" alt="iamrohan3000" /></a> </p>
 
-- 🔭 I’m currently working on my Pre-Final Year Project **Event locator**
+- 🔭 I’m currently working on my Final Year Project **AI Proctoring system**
 
 - 🌱 I’m currently learning **Web Development, Blockchain Technology, App Development, and Backend Programming**
 
