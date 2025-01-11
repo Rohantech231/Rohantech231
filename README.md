@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Ghosh</h1>
 <h3 align="center">A passionate Full Stack developer from Kolkata, India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Rohantech231/Rohantech231/blob/main/Man%20typing%20on%20a%20Keyboard.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Rohantech231/Rohantech231/blob/main/%CE%9E%20%20X%20%20%C4%A8%20%20S%20%20%E2%8A%A5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohantech231&label=Profile%20views&color=0e75b6&style=flat" alt="rohantech231" /> </p>
 
