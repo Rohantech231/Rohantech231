@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on my Final Year Project **AI Proctoring system**
 
-- 🌱 I’m currently learning **Web Development, Blockchain Technology, App Development, and Backend Programming**
+- 🌱 I’m currently learning **Frontend Development, Blockchain Technology, and Backend Programming**
 
-- 💬 Ask me about **JAVA, Python, C, MySQL, HTML, CSS, JavaScript**
+- 💬 Ask me about **JAVA, Python, C, MySQL, HTML, CSS, JavaScript, React, Next.js, Web3.js, Ethers.js, Solidity, Rust**
 
 - 📫 How to reach me **ghoshrohan2511@gmail.com**
 
