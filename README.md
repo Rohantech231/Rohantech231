@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohantech231&show_icons=true&locale=en" alt="rohantech231" /></p>
 
-[![Rohantech231's GitHub | Stats](https://stats.quine.sh/Rohantech231/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Rohantech231)  &nbsp;   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7vr81omxoqp90ygvaw0pumq3f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Rohantech231's GitHub | Stats](https://stats.quine.sh/Rohantech231/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Rohantech231)  &nbsp;  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7vr81omxoqp90ygvaw0pumq3f&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7vr81omxoqp90ygvaw0pumq3f&redirect=true)
 
 [![Rohantech231's GitHub | Languages Over Time](https://stats.quine.sh/Rohantech231/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rohantech231)
 
